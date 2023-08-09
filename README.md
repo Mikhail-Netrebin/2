@@ -5,6 +5,6 @@
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Анализ игровой индустрии](https://github.com/Mikhail-Netrebin/Portfolio/blob/main/Game%20industry) | Выявить определяющие успешность игры закономерности | python, pandas, numpy, scipy, matplotlib       |
-| 2.   | [Поведение пользователей приложения](https://github.com/Mikhail-Netrebin/Portfolio/blob/main/Game%20industry/Game%20industry) | Оценка воронки событий. Сравнение поведения пользователей контрольной и экспериментальной групп| python, pandas, matplotlib, scipy, numpy, datetime, math |
+| 2.   | [Поведение пользователей приложения](https://github.com/Mikhail-Netrebin/Portfolio/tree/main/Game%20industry) | Оценка воронки событий. Сравнение поведения пользователей контрольной и экспериментальной групп| python, pandas, matplotlib, scipy, numpy, datetime, math |
 | 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 
